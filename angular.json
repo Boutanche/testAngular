@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "angularTestNumeroDeux"
+  "defaultProject": "angularTestNumeroDeux",
+  "cli": {
+    "analytics": false
+  }
 }
